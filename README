@@ -1,4 +1,4 @@
-# Rooming
+# Rooming p2
 
 Use this to pair roommates.  It uses the Gale-Shapley algorithm, which I assume is also used for branch preferences.
 Its not perfect, sorry.
